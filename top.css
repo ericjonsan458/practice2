@@ -1,0 +1,33 @@
+@charset "utf-8";
+.wraper {
+	width: 600px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 600px;
+}
+.header {
+	height: 100px;
+	margin: 0px;
+	padding: 0px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #666;
+}
+
+
+/* CSS Document */
+
+.honbun {
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	height: 500px;
+}
+.footer {
+	background-image:url(footer.gif);
+	height:100px;
+	text-align: center;
+	color:#FFF;
+	margin:0px;
+	padding-top:20px;
+}
